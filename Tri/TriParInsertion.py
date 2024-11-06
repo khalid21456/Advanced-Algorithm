@@ -11,4 +11,3 @@ def insertionSort(arr):
     return arr
 
 print(insertionSort(tab))
-

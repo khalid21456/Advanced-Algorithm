@@ -3,7 +3,6 @@ tab = [5,14,7,9,0,5,18,33,40]
 
 def triParSelection(tab) :
     length = len(tab)
-    temp = 0
     for i in range(length) :
         min = i
         for j in range(i+1,length):
